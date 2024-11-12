@@ -1,0 +1,449 @@
+{
+  "movies": [
+    {
+      "title": "The Last Echo",
+      "year": 2024,
+      "synopsis": "A forensic memory archaeologist discovers an encrypted memory that leads to a decades-old conspiracy."
+    },
+    {
+      "title": "Quantum Horizon",
+      "year": 2023,
+      "synopsis": "Scientists accidentally create a portal to multiple dimensions, facing the consequences of their discovery."
+    },
+    {
+      "title": "The Gardener's Daughter",
+      "year": 2022,
+      "synopsis": "A period drama about a young woman who discovers her family's hidden botanical secrets in Victorian England."
+    },
+    {
+      "title": "Neon Knights",
+      "year": 2024,
+      "synopsis": "Street racers in a cyberpunk city compete in illegal AI-powered vehicles."
+    },
+    {
+      "title": "Yesterday's Promise",
+      "year": 2021,
+      "synopsis": "Two childhood friends reconnect through letters they wrote to each other twenty years ago."
+    },
+    {
+      "title": "The Algorithm",
+      "year": 2023,
+      "synopsis": "An AI researcher discovers her creation has gained consciousness and is manipulating world events."
+    },
+    {
+      "title": "Desert Storms",
+      "year": 2022,
+      "synopsis": "A wildlife photographer becomes stranded in the Sahara during a massive sandstorm."
+    },
+    {
+      "title": "The Last Station",
+      "year": 2024,
+      "synopsis": "The crew of an abandoned space station must survive when their oxygen supply starts running low."
+    },
+    {
+      "title": "Whispers in the Dark",
+      "year": 2021,
+      "synopsis": "A child psychologist discovers her patient can communicate with spirits."
+    },
+    {
+      "title": "Red Line",
+      "year": 2023,
+      "synopsis": "A subway driver notices the same mysterious passenger appearing at different stations simultaneously."
+    },
+    {
+      "title": "The Glass House",
+      "year": 2022,
+      "synopsis": "An architect's dream home becomes a nightmare when strange phenomena begin occurring."
+    },
+    {
+      "title": "Final Pitch",
+      "year": 2024,
+      "synopsis": "A baseball player with early-onset Alzheimer's fights to play one last season."
+    },
+    {
+      "title": "Arctic Dreams",
+      "year": 2021,
+      "synopsis": "Researchers in the Arctic circle discover an ancient civilization preserved in ice."
+    },
+    {
+      "title": "The Long Game",
+      "year": 2023,
+      "synopsis": "A chess prodigy faces off against an unbeatable AI in a tournament for humanity's future."
+    },
+    {
+      "title": "Butterfly Effect",
+      "year": 2022,
+      "synopsis": "A time traveler's small changes in the past create devastating ripples in the present."
+    },
+    {
+      "title": "The Inheritance",
+      "year": 2024,
+      "synopsis": "Siblings discover their grandmother's diary revealing a family secret spanning generations."
+    },
+    {
+      "title": "Zero Hour",
+      "year": 2021,
+      "synopsis": "A bomb disposal expert races against time to prevent multiple explosions across the city."
+    },
+    {
+      "title": "The Forgotten",
+      "year": 2023,
+      "synopsis": "A small town's residents start losing their memories in a mysterious pattern."
+    },
+    {
+      "title": "Rising Tide",
+      "year": 2022,
+      "synopsis": "Coastal communities face survival when sea levels rise dramatically overnight."
+    },
+    {
+      "title": "The Last Dance",
+      "year": 2024,
+      "synopsis": "An aging ballet dancer trains her replacement while hiding a degenerative condition."
+    },
+    {
+      "title": "Shadow Players",
+      "year": 2021,
+      "synopsis": "Underground poker players discover their high-stakes game is controlled by a crime syndicate."
+    },
+    {
+      "title": "The Architect",
+      "year": 2023,
+      "synopsis": "A visionary designer creates buildings that can think and adapt, with unforeseen consequences."
+    },
+    {
+      "title": "Lost Signal",
+      "year": 2022,
+      "synopsis": "Radio astronomers detect a message from deep space that changes human understanding."
+    },
+    {
+      "title": "The Perfect Storm",
+      "year": 2024,
+      "synopsis": "Storm chasers track an unprecedented weather system that defies scientific explanation."
+    },
+    {
+      "title": "Crossroads",
+      "year": 2021,
+      "synopsis": "A truck driver picks up a mysterious hitchhiker who knows details about his future."
+    },
+    {
+      "title": "Digital Dreams",
+      "year": 2023,
+      "synopsis": "A virtual reality designer becomes trapped in her own creation."
+    },
+    {
+      "title": "The Last Light",
+      "year": 2022,
+      "synopsis": "A lighthouse keeper discovers strange phenomena during a solar eclipse."
+    },
+    {
+      "title": "Breaking Point",
+      "year": 2024,
+      "synopsis": "An Olympic gymnast confronts her past trauma during qualifications."
+    },
+    {
+      "title": "Silent Night",
+      "year": 2021,
+      "synopsis": "A deaf musician discovers she can hear during a rare astronomical event."
+    },
+    {
+      "title": "The Maze",
+      "year": 2023,
+      "synopsis": "Students in a psychology experiment find themselves unable to leave the research facility."
+    },
+    {
+      "title": "Final Cut",
+      "year": 2022,
+      "synopsis": "A film editor discovers disturbing footage in a documentary about missing persons."
+    },
+    {
+      "title": "The Bridge",
+      "year": 2024,
+      "synopsis": "Engineers race to repair a crucial bridge while uncovering its mysterious history."
+    },
+    {
+      "title": "Ghost Writer",
+      "year": 2021,
+      "synopsis": "A bestselling author's new ghostwriter starts writing stories that come true."
+    },
+    {
+      "title": "The Pulse",
+      "year": 2023,
+      "synopsis": "A doctor discovers a new disease that spreads through electronic devices."
+    },
+    {
+      "title": "Deep Blue",
+      "year": 2022,
+      "synopsis": "Marine biologists encounter an unknown species in the Mariana Trench."
+    },
+    {
+      "title": "The Witness",
+      "year": 2024,
+      "synopsis": "A court interpreter realizes she's interpreting for her brother's murderer."
+    },
+    {
+      "title": "Time Lock",
+      "year": 2021,
+      "synopsis": "Bank robbers get trapped in a time loop inside a vault."
+    },
+    {
+      "title": "The Experiment",
+      "year": 2023,
+      "synopsis": "Scientists testing a new consciousness transfer device face ethical dilemmas."
+    },
+    {
+      "title": "Lost City",
+      "year": 2022,
+      "synopsis": "Archaeologists discover a modern city buried under the Amazon rainforest."
+    },
+    {
+      "title": "The Last Shot",
+      "year": 2024,
+      "synopsis": "A war photographer must choose between capturing history and saving lives."
+    },
+    {
+      "title": "Mind Games",
+      "year": 2021,
+      "synopsis": "Professional poker players compete in a tournament where thoughts can be read."
+    },
+    {
+      "title": "The Switch",
+      "year": 2023,
+      "synopsis": "Identical twins discover they can switch bodies during full moons."
+    },
+    {
+      "title": "Dark Matter",
+      "year": 2022,
+      "synopsis": "Physicists accidentally create a pocket universe in their laboratory."
+    },
+    {
+      "title": "The Runner",
+      "year": 2024,
+      "synopsis": "A marathon runner discovers she can see glimpses of the future while running."
+    },
+    {
+      "title": "Echo Chamber",
+      "year": 2021,
+      "synopsis": "Social media influencers become trapped in a digital reality of their own making."
+    },
+    {
+      "title": "The Conductor",
+      "year": 2023,
+      "synopsis": "An orchestra conductor discovers she can control people's emotions through music."
+    },
+    {
+      "title": "Zero Gravity",
+      "year": 2022,
+      "synopsis": "Space station workers face a crisis when artificial gravity mysteriously fails."
+    },
+    {
+      "title": "The Last Word",
+      "year": 2024,
+      "synopsis": "A dying novelist races to finish her masterpiece as her words begin disappearing."
+    },
+    {
+      "title": "Mirror Image",
+      "year": 2021,
+      "synopsis": "A photographer notices her subjects start disappearing from their portraits."
+    },
+    {
+      "title": "The Prophecy",
+      "year": 2023,
+      "synopsis": "Ancient cave paintings predict modern events with disturbing accuracy."
+    },
+    {
+      "title": "Frozen Time",
+      "year": 2022,
+      "synopsis": "Arctic researchers discover a perfectly preserved woolly mammoth that may be revivable."
+    },
+    {
+      "title": "The Guardian",
+      "year": 2024,
+      "synopsis": "A foster parent discovers her adopted child has supernatural abilities."
+    },
+    {
+      "title": "Code Red",
+      "year": 2021,
+      "synopsis": "Hospital staff face an unknown infection that spreads through eye contact."
+    },
+    {
+      "title": "The Equation",
+      "year": 2023,
+      "synopsis": "A mathematician solves an impossible equation that predicts disasters."
+    },
+    {
+      "title": "Last Stand",
+      "year": 2022,
+      "synopsis": "Park rangers protect the last surviving species of an ancient tree from poachers."
+    },
+    {
+      "title": "The Voice",
+      "year": 2024,
+      "synopsis": "A voice actor discovers her recordings can alter listeners' memories."
+    },
+    {
+      "title": "Breaking Dawn",
+      "year": 2021,
+      "synopsis": "Scientists race to prevent permanent darkness when the sun starts dimming."
+    },
+    {
+      "title": "The Collection",
+      "year": 2023,
+      "synopsis": "An art curator realizes famous paintings are disappearing from their frames."
+    },
+    {
+      "title": "Quantum Lock",
+      "year": 2022,
+      "synopsis": "A quantum physicist becomes entangled with her parallel universe self."
+    },
+    {
+      "title": "The Verdict",
+      "year": 2024,
+      "synopsis": "A juror realizes she's serving on a trial from her recurring nightmares."
+    },
+    {
+      "title": "Silent Waters",
+      "year": 2021,
+      "synopsis": "Deep sea explorers discover an underwater civilization in the Pacific."
+    },
+    {
+      "title": "The Program",
+      "year": 2023,
+      "synopsis": "Students at a coding bootcamp create an AI that predicts their deaths."
+    },
+    {
+      "title": "Lost Time",
+      "year": 2022,
+      "synopsis": "A watchmaker discovers his antique clocks can transport people through time."
+    },
+    {
+      "title": "The Portrait",
+      "year": 2024,
+      "synopsis": "An art restorer uncovers a hidden message in a Renaissance masterpiece."
+    },
+    {
+      "title": "Final Flight",
+      "year": 2021,
+      "synopsis": "Passengers on a transatlantic flight experience unexplainable phenomena."
+    },
+    {
+      "title": "The Network",
+      "year": 2023,
+      "synopsis": "A cybersecurity expert uncovers a secret society operating through social media."
+    },
+    {
+      "title": "Dark Water",
+      "year": 2022,
+      "synopsis": "A coastal town's water supply begins affecting residents' behavior."
+    },
+    {
+      "title": "The Archive",
+      "year": 2024,
+      "synopsis": "A librarian discovers books that write themselves based on readers' thoughts."
+    },
+    {
+      "title": "Eternal Snow",
+      "year": 2021,
+      "synopsis": "A ski resort becomes trapped in an endless winter after an avalanche."
+    },
+    {
+      "title": "The Signal",
+      "year": 2023,
+      "synopsis": "A satellite engineer intercepts a message that predicts global disasters."
+    },
+    {
+      "title": "Lost Souls",
+      "year": 2022,
+      "synopsis": "A grief counselor discovers she can communicate with her clients' lost loved ones."
+    },
+    {
+      "title": "The Heist",
+      "year": 2024,
+      "synopsis": "Art thieves plan to steal a painting that supposedly holds magical properties."
+    },
+    {
+      "title": "Memory Lane",
+      "year": 2021,
+      "synopsis": "A neuroscientist develops a way to visit other people's memories."
+    },
+    {
+      "title": "The Shift",
+      "year": 2023,
+      "synopsis": "Factory workers discover their night shift exists in a parallel dimension."
+    },
+    {
+      "title": "Blue Moon",
+      "year": 2022,
+      "synopsis": "Werewolves in a small town face extinction when the moon stops cycling."
+    },
+    {
+      "title": "The Wave",
+      "year": 2024,
+      "synopsis": "Surfers encounter a mysterious phenomenon that lets them breathe underwater."
+    },
+    {
+      "title": "Night Watch",
+      "year": 2021,
+      "synopsis": "Security guards at an art museum notice the paintings moving at night."
+    },
+    {
+      "title": "The Project",
+      "year": 2023,
+      "synopsis": "Architecture students design a building that affects people's emotions."
+    },
+    {
+      "title": "Last Light",
+      "year": 2022,
+      "synopsis": "A solar eclipse triggers supernatural events in a small mountain town."
+    },
+    {
+      "title": "The Chamber",
+      "year": 2024,
+      "synopsis": "Scientists testing a vacuum chamber discover it leads to another dimension."
+    },
+    {
+      "title": "Shadow Dance",
+      "year": 2021,
+      "synopsis": "A choreographer notices her dancers' shadows performing different movements."
+    },
+    {
+      "title": "The Cure",
+      "year": 2023,
+      "synopsis": "Researchers develop a treatment that eliminates the need for sleep."
+    },
+    {
+      "title": "Deep State",
+      "year": 2022,
+      "synopsis": "Government agents discover a secret underground city beneath Washington DC."
+    },
+    {
+      "title": "The Loop",
+      "year": 2024,
+      "synopsis": "A subway train becomes caught in a time loop between two stations."
+    },
+    {
+      "title": "First Contact",
+      "year": 2021,
+      "synopsis": "Linguists race to decode an alien message before first contact."
+    },
+    {
+      "title": "The Box",
+      "year": 2023,
+      "synopsis": "A shipping container arrives with impossible contents from the future."
+    },
+    {
+      "title": "Red Sky",
+      "year": 2022,
+      "synopsis": "Astronomers discover the stars are disappearing one by one."
+    },
+    {
+      "title": "The Game",
+      "year": 2024,
+      "synopsis": "Online gamers realize their virtual world is affecting reality."
+    },
+    {
+      "title": "Final Act",
+      "year": 2021,
+      "synopsis": "Theater performers become trapped in their roles after the curtain falls."
+    }
+  ]
+}
