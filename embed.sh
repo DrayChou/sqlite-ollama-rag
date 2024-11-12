@@ -38,7 +38,7 @@ jq -c '.movies | .[]' | while read -r movie; do
     if [ -z "$EMBEDDING" ] || [ "$EMBEDDING" = "null" ]; then
         echo "Failed to get embedding for: $TITLE"
         continue
-    }
+    fi
     
     # Escape the movie description for SQL
     ESCAPED_MOVIE=$(escape_sql "$MOVIE")
